@@ -43,7 +43,6 @@ def add_positions():
     third_volt_x = 1000
     third_volt_y = 440
 
-
     # ------------------- Resistors ------------------- #
 
     # first resistor
